@@ -1,4 +1,4 @@
-# Meals App - Expo Project
+# Meals App
 
 This repository contains the Expo project for a mobile application built with React Native called "Meals App". The app allows users to explore a variety of meals, view detailed recipes and mark favorite meals.
 
